@@ -12,8 +12,8 @@
 
 <p align="center">
   <a href="https://github.com/kritikasapkota"><img alt="GitHub followers" src="https://img.shields.io/github/followers/kritikasapkota?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/kritikasapkota"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&style=flat-square"></a>
-  <a href="mailto:hello@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-hello%40example.com-D14836?logo=gmail&style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/kritika-sapkota-1153892a8"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&style=flat-square"></a>
+  <a href="mailto:kritikasapkota456@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hello%40example.com-D14836?logo=gmail&style=flat-square"></a>
 </p>
 
 ## About me
