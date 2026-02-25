@@ -49,6 +49,8 @@ I build thoughtful, accessible web experiences and polished developer tools. I f
 
 - Email: hello@example.com
 - LinkedIn: https://www.linkedin.com/in/kritikasapkota
+ - Email: kritikasapkota456@gmail.com
+ - LinkedIn: https://www.linkedin.com/in/kritika-sapkota-1153892a8
 - Open to: mentoring, collaboration on design + front-end projects
 
 ---
